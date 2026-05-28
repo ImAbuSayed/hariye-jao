@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hariye Jao
+
+This log tracks the cryptographic history and versioning for the song **Hariye Jao** (hariye-jao).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:29:21.421427 | `v1` | `83276c56a5d862f156f42e2b24ed868fd70599b4760b9cdf3e7ac074aa0e0860` | `db2cbc3346ca65923f930b72ee448a30bd9d98bfbd5c2ca4c889f36b198c83a4` | `2026-05-28_hariye-jao-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
